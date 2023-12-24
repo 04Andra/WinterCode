@@ -1,7 +1,7 @@
 # WinterCode
 <h1>ChristmasWishes</h1>
 
-<p>Immerse yourself in the magic of Christmas with Santa's Express, the ultimate holiday app that combines the timeless tradition of writing letters to Santa Claus with the excitement of tracking his journey around the globe on Christmas Eve!</p>
+
 <p>Immerse yourself in the magic of Christmas with Santa's Express, the ultimate holiday app that combines the timeless tradition of writing letters to Santa Claus with the excitement of tracking his journey around the globe on Christmas Eve!</p>
 <h>📝 Write Letters to Santa:</h>
 <p>Capture the joy and wonder of the holiday season by composing heartfelt letters to Santa Claus. Choose from a variety of festive templates or craft a personalized message straight from the heart.</p>
